@@ -1,0 +1,2 @@
+# Output
+Trial and error.
